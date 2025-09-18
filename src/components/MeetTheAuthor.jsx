@@ -1,6 +1,6 @@
 export default function MeetTheAuthor() {
   return (
-    <div className="p-8 bg-gray-200 min-h-screen">
+    <div className="p-4 bg-gray-200 ">
       {/* Top section */}
       <div className="flex justify-between items-center max-w-6xl mx-auto">
         {/* Bubble label */}

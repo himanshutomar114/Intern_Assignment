@@ -1,6 +1,6 @@
 export default function LucaAndHisCrew() {
   return (
-    <div className="p-4 sm:p-8 bg-gray-100 min-h-screen">
+    <div className="p-4 sm:p-8 bg-gray-100">
       <div className="flex flex-col lg:flex-row lg:pl-16 items-start gap-8">
         {/* Left side text */}
         <div className="flex-shrink-0 lg:mr-72 text-center lg:text-left">
@@ -29,7 +29,7 @@ export default function LucaAndHisCrew() {
         </div>
 
         {/* Character cards */}
-        <div className="flex gap-4 sm:gap-6 overflow-x-auto pb-4 w-full lg:w-auto">
+        <div className="flex gap-4 sm:gap-6 overflow-x-auto w-full lg:w-auto">
           {/* Luca */}
           <div className="flex-shrink-0">
             <div className="bg-cyan-400 border-4 border-dashed border-cyan-600 rounded-lg p-6 sm:p-8 w-36 sm:w-48 h-56 sm:h-72 flex items-center justify-center">

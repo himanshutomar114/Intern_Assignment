@@ -1,6 +1,6 @@
 export default function BookCTA() {
   return (
-    <div className="p-8 bg-gray-200 bg-[url('/Vector.png')] min-h-screen flex items-center justify-center">
+    <div className="p-8 bg-gray-200 bg-[url('/Vector.png')] flex items-center justify-center">
       <div className="relative">
         {/* Book illustration */}
         <div className="flex justify-center mb-8">

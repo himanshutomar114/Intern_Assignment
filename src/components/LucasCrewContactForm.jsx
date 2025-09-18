@@ -26,7 +26,7 @@ export default function LucasCrewContactForm() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center p-4">
+    <div className=" bg-gray-100 flex items-center justify-center p-4">
       <div className="bg-gray-100 rounded-3xl  p-8 w-full max-w-4xl">
         {/* Header */}
         <div className="text-center mb-8">

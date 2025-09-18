@@ -16,14 +16,15 @@ export default function LucaFooter() {
 
       {/* Content */}
       <div className="relative z-10 max-w-7xl mx-auto px-8 pt-20 pb-12">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-2">
           
           {/* Left section - Logo and Social */}
           <div className="space-y-6">
             <div className="text-white">
-              <h2 className="text-4xl font-light mt-6">
-                Luca<span className="text-lg font-normal italic">.com</span>
-              </h2>
+              <h2 className="text-blue-700 md:text-white text-4xl font-light mt-6">
+  Luca<span className="text-lg font-normal italic">.com</span>
+</h2>
+
             </div>
             
             {/* Social Icons */}

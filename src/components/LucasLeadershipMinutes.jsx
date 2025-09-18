@@ -1,6 +1,6 @@
 export default function LucasLeadershipMinutes() {
   return (
-    <div className="p-8 bg-[url('/Vector.png')] bg-gray-100 min-h-screen">
+    <div className="p-8 bg-[url('/Vector.png')] bg-gray-100 ">
       {/* Header with bird logo and title */}
       <div className="flex justify-between items-start mb-8">
         {/* Arrow → desktop left, mobile aligns aside text */}
